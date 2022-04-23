@@ -11,4 +11,8 @@ Our sites are mainly designed in :
 
 Our eco-designed sites follow the [GreenIT®](https://www.greenit.fr) standards.
 
+---
+
 Visit our repositories or our [website](https://novagaia.fr/) with its [latest references](https://novagaia.fr/references/) 🚀.
+
+You can also reach us at [contact@novagaia.fr](mailto:contact@novagaia.fr)
