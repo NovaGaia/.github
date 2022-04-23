@@ -2,7 +2,7 @@
 
 ## Welcome at [NovaGaïa](https://novagaia.fr/) 👋
 
-**NovaGaïa** is an agency that creates high-performance, optimized and eco-responsible websites. We are also a consultant in eco-design 🌱
+**NovaGaïa** is an agency that creates high-performance, optimized and eco-responsible websites. We are also a consultant in eco-design of websites 🌱
 
 Our sites are mainly designed in :
 
