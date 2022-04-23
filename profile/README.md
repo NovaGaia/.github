@@ -1,4 +1,4 @@
-![An illustration showing the NovaGaïa logo over a beautiful forest.](./cover.png)
+![An illustration showing the NovaGaïa logo over a beautiful forest.](https://github.com/NovaGaia/.github/blob/main/profile/cover.png)
 
 ## Welcome at [NovaGaïa](https://novagaia.fr/) 👋
 
