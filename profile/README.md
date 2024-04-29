@@ -6,10 +6,13 @@
 
 Our sites are mainly designed in :
 
+- [Astro](https://astro.build/) with [TinaCMS](https://tina.io/)
 - [GatsbyJS](https://www.gatsbyjs.com/) with [Strapi](https://strapi.io/), [DatoCMS](https://www.datocms.com)... ;
 - [WordPress](https://wordpress.org/) and [WooCommerce](https://woocommerce.com).
 
 Our eco-designed sites follow the [GreenIT®](https://www.greenit.fr) standards.
+
+We devellop for the CNUM, the GreenIT® team the plugin lighthouse [lighthouse-plugin-ecoindex](https://github.com/cnumr/lighthouse-plugin-ecoindex)
 
 ---
 
