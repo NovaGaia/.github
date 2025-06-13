@@ -12,7 +12,6 @@ Our sites are mainly designed in :
 
 Our eco-designed sites follow the [GreenIT®](https://www.greenit.fr) standards.
 
-We devellop for the CNUMR, the GreenIT® team the plugin lighthouse [lighthouse-plugin-ecoindex](https://github.com/cnumr/lighthouse-plugin-ecoindex) and 
 For CNUMR, the GreenIT® team, we're developing the ecoindex plugin for Google's Lighthouse [lighthouse-plugin-ecoindex](https://github.com/cnumr/lighthouse-plugin-ecoindex), which can be used in command line mode, as well as the desktop application and GUI for this tool [EcoindexApp](https://github.com/cnumr/EcoindexApp).
 
 ---
